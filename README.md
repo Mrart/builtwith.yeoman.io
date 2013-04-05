@@ -1,7 +1,7 @@
 <a name="submit"></a>
-# builtwith.angularjs.org
+# builtwith.yeoman.io
 
-Gallery of AngularJS apps and demos.
+Gallery of Yeoman apps - coming soon.
 
 Adding your neat thing
 ----------------------
